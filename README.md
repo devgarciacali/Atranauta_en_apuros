@@ -36,4 +36,4 @@ Cada nivel aumenta la **dificultad**:
 ---
 
 ## 🚀 Cómo jugar
-1. Da click en el link:
+1. Da click en el link: https://devgarciacali.github.io/Atranauta_en_apuros/
